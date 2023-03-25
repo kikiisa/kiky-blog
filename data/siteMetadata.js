@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Bacotan Engineer',
   author: 'Mohamad Rizky Isa',
   headerTitle: 'Bacotan Engineer',
-  description: 'Sebuah Platform yang di develop oleh engineer handa yaitu Mohamad Rizky isa',
+  description: 'Sebuah Platform yang di develop oleh engineer handal yaitu Mohamad Rizky isa',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://bacotengineer.netlify.app/',
